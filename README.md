@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hola, soy Camilo 👋
+<img src="assets/banner.svg" alt="Camilo Rojas — full-stack developer" width="100%" />
 
-**Full-stack developer** · Estudiante de Ingeniería en Informática (UFRO)
-📍 Temuco, Chile 🇨🇱
+Estudiante de Ingeniería en Informática (UFRO) · 📍 Temuco, Chile 🇨🇱
 
 <a href="https://camilo-rojas.dev"><img src="https://img.shields.io/badge/Portafolio-camilo--rojas.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://lexpa.app"><img src="https://img.shields.io/badge/Lexpa-lexpa.app-4F46E5?style=for-the-badge" /></a>
@@ -41,12 +40,15 @@
 | 🏥 **dermaclinica-web** | Sitio web para una clínica dermatológica (cliente real) |
 | 🥗 **SobraCero** | Plataforma para reducir el desperdicio de comida vía donaciones |
 
-### 📊 Stats
+### 🎯 Ahora mismo
+
+- 🔨 Construyendo **[Lexpa](https://lexpa.app)**, mi app para aprender idiomas
+- 🧪 Explorando visión computacional con MediaPipe
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=C-RB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-RB&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://img.shields.io/github/followers/C-RB?label=Seguidores&style=for-the-badge&logo=github&color=4F46E5" />
+<img src="https://img.shields.io/github/stars/C-RB?affiliations=OWNER&label=Estrellas&style=for-the-badge&logo=github&color=22d3ee&labelColor=0d1117" />
 
 📫 **¿Hablamos?** Escríbeme desde [camilo-rojas.dev](https://camilo-rojas.dev)
 
