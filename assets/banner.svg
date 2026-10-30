@@ -25,7 +25,6 @@
   <circle cx="34" cy="30" r="6" fill="#ff5f56"/>
   <circle cx="54" cy="30" r="6" fill="#ffbd2e"/>
   <circle cx="74" cy="30" r="6" fill="#27c93f"/>
-  <text x="450" y="35" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">camilo@temuco:~</text>
 
   <text x="50" y="100" class="mono" font-size="20" fill="#22d3ee">&gt; whoami</text>
   <text x="50" y="155" class="sans" font-size="54" font-weight="700" fill="url(#accent)">Camilo Rojas</text>
