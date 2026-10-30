@@ -13,10 +13,10 @@ Estudiante de Ingeniería en Informática (UFRO) · 📍 Temuco, Chile 🇨🇱
 
 ### 🚀 Sobre mí
 
-- 💼 Práctica como Desarrollador Web en **Softem SPA** (2025–2026, remoto)
-- 📱 Construyo apps móviles y web de punta a punta: frontend, backend, base de datos y deploy en VPS
-- 🧠 Me interesa la IA aplicada y la visión computacional (MediaPipe)
-- 🌍 Creo productos propios para aprender idiomas
+- 🧩 **Software a medida:** apps móviles, web y sistemas que se adaptan a cómo trabaja cada cliente
+- 🏥 **Proyectos reales con clientes**, como [DermaClínica](https://github.com/C-RB/dermaclinica-web)
+- 📱 **Productos propios en producción:** [Lexpa](https://lexpa.app) y YouType
+- 🧠 **IA aplicada y visión computacional**, donde exploro tecnologías nuevas, como la detección de postura con MediaPipe en Vida-Activa
 
 ### 🛠️ Stack
 
